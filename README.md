@@ -2,6 +2,10 @@
 
 A responsive website built from scratch using HTML, CSS, and JavaScript.
 
+## 🌐 Live Demo
+
+[View Live Website](https://vahidbodaghi.github.io/rivo-html-css/)
+
 ## 📌 About
 
 This project is a frontend practice project created to improve my web development skills and build a complete responsive website from scratch.
